@@ -1,0 +1,8 @@
+**************************************************************************************
+* GIT IMMERSION IS A GUIDED TOUR THAT WALKS THROUGH THE FUNDAMENTALS OF GIT,         *
+*INSPIRED BY THE PREMISE THAT TO KNOW A THING IS TO DO IT.                           * 
+*                                                                                    * 
+**************************************************************************************
+
+This is a test
+
